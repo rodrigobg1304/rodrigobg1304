@@ -7,8 +7,7 @@ I'm highly skilled graduate in IT Engineering, self-starter and eager to collabo
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
--->
-- 💬 Ask me about whatever you want, I'm always charming to help you.
+-->- 💬 Ask me about whatever you want, I'm always charming to help you.
 - 📫 How to reach me: rodri.bnt@gmail.com
 <!--
 - 😄 Pronouns: ...
